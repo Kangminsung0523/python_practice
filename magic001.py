@@ -1,4 +1,4 @@
-numbers = [4, 5, 6]
+numbers = [7, 8, 9]
 magic_numbers = list(map(lambda x: 3*x+6, numbers))
 print(magic_numbers)
 
